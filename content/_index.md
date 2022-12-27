@@ -2,9 +2,7 @@
 title: Math 204: Master's Real Analysis
 date: Fall 2023
 toc: false
-image:
-  filename: covers/Uxd_Blk_Mathematics_A.png
-  caption: UCLA Math
+
 ---
 
 **Instructor** [Raymond Chu](https://raymondchu.netlify.app)
