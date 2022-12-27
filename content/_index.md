@@ -1,4 +1,4 @@
-#title: Math 204: Masters Real Analysis
+title: Math 204: Masters Real Analysis
 date: Winter 2023
 toc: false
 
