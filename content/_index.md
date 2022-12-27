@@ -13,5 +13,4 @@ toc: false
 
 **Teaching Assistant** [Thierry Laurens](https://www.math.ucla.edu/~laurenst/)
 
-
 **Office Hours** To Be Determined
