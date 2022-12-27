@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: 🤖 Machine Learning
-linktitle: 🤖 Machine Learning
+title: Mathematics 204: Master's Real Analysis
+linktitle: Mathematics 204: Master's Real Analysis
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 # icon: book
