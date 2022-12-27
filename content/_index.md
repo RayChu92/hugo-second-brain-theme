@@ -1,7 +1,7 @@
-title: Math 204: Masters Real Analysis
-date: Winter 2023
+---
+title: Math 204: Master's Real Analysis
+date: Fall 2023
 toc: false
-
 image:
   filename: covers/Uxd_Blk_Mathematics_A.png
   caption: UCLA Math
